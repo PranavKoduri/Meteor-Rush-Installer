@@ -22,7 +22,7 @@ Download and run the installer to play the game. It'll give you the option of wh
 
 ### Mac
 
-Unzip the file where you would like to save the game, and run the .app file to play the game.
+Extract the .tar file where you would like to save the game, and run the .app file to play the game.
 
 ## Controls
 
