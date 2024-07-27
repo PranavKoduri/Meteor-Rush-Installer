@@ -9,16 +9,11 @@ There are 6 stages, each of which takes about 30 seconds, so a full game lasts a
 
 ## Download
 
-The game is available on both Mac and Windows. Both platforms have 3 window sizes you can choose from: 
-- 640 x 480
-- 960 x 720
-- 1280 x 960
-
-All 6 download options are available on the right side of this page under the "Releases" section.
+The game is available on both Mac and Windows. Both download options are available on the right side of this page under the "Releases" section.
 
 ### Windows
 
-Download and run the installer to play the game. It'll give you the option of where to save the game, if you want to add it to your start menu, and an option to add a desktop shortcut.
+Download and run the installer to play the game. It'll give you the options of where to save the game, if you want to add it to your start menu, and if you want to add a desktop shortcut.
 
 ### Mac
 
@@ -40,10 +35,10 @@ The controls are also shown in the game, but they are below as well:
 - There is no sound.
 - There are no mouse controls. All controls are keyboard controls.
 - The mouse cursor is invisible (not disabled) inside the window of the game. Move the cursor outside the window of the game to see it again.
-- The game window size can be neither changed nor set to full screen.
 - Your top 10 high scores are saved. You can choose to clear them if you would like, but the action cannot be undone if you confirm the clear.
 - Don't try to change the high scores in the save file. You won't be able to do it. If you mess it up, all your saved scores will be automatically cleared.
 - High scores are automatically updated and saved as soon as each game is finished (whether you win or lose). If you choose to restart or quit in the middle of a game, that score is not saved.
+- See below on information about screen sizes.
 
 ## Game Snapshot
 
@@ -54,3 +49,12 @@ The controls are also shown in the game, but they are below as well:
 - The meteor is falling down from the top of the screen (the sky).
 - The bullet, which is just a red rectangle, is moving upwards after being shot by the rover (you) and is about to destroy the meteor.
 - You control the rover's movement and shooting.
+
+## Game Window Size
+
+You can change the size of the window at any point during the game to one of the following options using its corresponding key:
+- 640 x 480: 1 (default)
+- 960 x 720: 2
+- 1280 x 960: 3
+
+The game window size can't be set to any other size nor set to full screen. You can use either the number keys at the top of the keyboard or the numpad on the side (if your keyboard has it) to set the window size.
