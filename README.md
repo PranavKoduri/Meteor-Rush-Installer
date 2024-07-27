@@ -7,7 +7,7 @@ Meteors are falling from the sky! Move left and right to dodge them, or shoot to
 
 The goal of the game is to survive until the end while getting as high of a score as possible. Your score increases as time passes, but you can increase it more by shooting down meteors and surviving stages of meteors falling.
 
-There are 6 stages, each of which takes about 30 seconds, so a full game lasts a little over 3 minutes.
+There are 6 stages, each of which lasts about 30 seconds, so a full game lasts a little over 3 minutes.
 
 ## Download
 
