@@ -1,6 +1,8 @@
 # Meteor Rush
 ###### by Pranav Koduri
 ---
+##### NOTE: All art/images and code in this game is 100% created by me. No outside help or resources were used other than what is provided by Unity.
+---
 Meteors are falling from the sky! Move left and right to dodge them, or shoot to destroy them. Survive until the end to win, but be careful - if you get hit even once, you lose.
 
 The goal of the game is to survive until the end while getting as high of a score as possible. Your score increases as time passes, but you can increase it more by shooting down meteors and surviving stages of meteors falling.
