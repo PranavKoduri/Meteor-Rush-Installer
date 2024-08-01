@@ -11,22 +11,30 @@ There are 6 stages, each of which lasts about 30 seconds, so a full game takes a
 
 ## Download
 
-The game is available on both Mac and Windows. Both download options are available on the right side of this page under the "Releases" section.
+The game is available on both Mac and Windows. Download options are available on the right side of this page under the "Releases" section. All applications function exactly the same.
 
 ### Windows
 
-Download and run the installer to play the game. It'll give you the options of where to save the game, if you want to add it to your start menu, and if you want to add a desktop shortcut.
+There are 2 download options for Windows. Both of them work and function the same. You can use the installer if you want to be a bit fancier, or just the zip file if that makes you more comfortable.
+
+#### Installer
+
+Download and run "MeteorRushSetup.exe" to install the game. It'll give you the options of where to save the game, if you want to add it to your start menu, and if you want to add a desktop shortcut. Click the desktop shortcut or "MeteorRush.exe" after installation to run the game.
+
+#### Zip File
+
+Download and unzip "MeteorRush.zip" to install the game. You can right-click "MeteorRush.exe" and select "Create Shortcut" to make a desktop shortcut if you'd like. Click the desktop shortcut or "MeteorRush.exe" after unzipping the file to run the game.
 
 ### Mac
 
-Extract the .tar file where you would like to save the game, and run the .app file to play the game.
+Download and unzip "MeteorRush.zip" to install the game, and run the .app file to play the game. You may need to bypass the Apple doesn't trust this software warning to run the app. If so, go to Settings -> Privacy and Security -> Trust This / Open Anyways.
 
 ## Controls
 
 The controls are also shown in the game, but they are below as well:
 - B: go back to the menu or cancel an action (clearing high scores, restarting, quitting) when the confirmation pops up
 - Q: quit/exit the app
-- R: restart the game (current game will not be saved if you restart"
+- R: restart the game (current game will not be saved if you restart)
 - left/right arrow keys or A/D: move left/right
 - up/down arrow keys or W/S: shoot directly up
 - P/space: pause/unpause
