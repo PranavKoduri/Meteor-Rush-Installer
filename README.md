@@ -27,7 +27,7 @@ Download and unzip "MeteorRush.zip" to install the game. You can right-click "Me
 
 ### Mac
 
-Download and unzip "MeteorRush.zip" to install the game, and run the .app file to play the game. You may need to bypass the Apple doesn't trust this software warning to run the app. If so, go to Settings -> Privacy and Security -> Trust This / Open Anyways.
+Download and unzip "MeteorRush.zip" to install the game, and run the .app file to play the game. You may need to bypass the Apple doesn't trust this software warning to run the app. There are ways to allow the app to run by either going through [System Settings](https://support.apple.com/en-us/102445#:~:text=Open%20System%20Settings.,anyway%2C%20you%20can%20click%20Open) or the [Finder](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac).
 
 ## Controls
 
