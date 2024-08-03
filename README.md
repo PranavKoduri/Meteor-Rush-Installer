@@ -11,7 +11,7 @@ There are 6 stages, each of which lasts about 30 seconds, so a full game takes a
 
 ## Download
 
-The game is available on both Mac and Windows. Download options are available on the right side of this page under the "Releases" section. All applications function exactly the same.
+The game is available on both Mac and Windows. Download options are available on the right side of this page under the "Releases" section. All applications function exactly the same. The "Latest" label next to the "Windows" title is irrelevant.
 
 ### Windows
 
