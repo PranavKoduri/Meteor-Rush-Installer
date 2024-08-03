@@ -49,7 +49,7 @@ The controls are also shown in the game, but they are below as well:
 - There are 6 stages, each of which lasts about 30 seconds, so a full game takes a little over 3 minutes.
 - See below on information about screen sizes.
 
-## Game Snapshot and Gameplay Clip
+## Game Snapshot + Gameplay Clip
 
 [![Game Snapshot](https://github.com/user-attachments/assets/2d5b924d-2fd3-49fe-89e3-9ddd49675977)](https://www.youtube.com/watch?v=3TcEmALU5G8)
 
