@@ -49,15 +49,17 @@ The controls are also shown in the game, but they are below as well:
 - There are 6 stages, each of which lasts about 30 seconds, so a full game takes a little over 3 minutes.
 - See below on information about screen sizes.
 
-## Game Snapshot
+## Game Snapshot and Gameplay Clip
 
-![image](https://github.com/user-attachments/assets/2d5b924d-2fd3-49fe-89e3-9ddd49675977)
+[![Game Snapshot](https://github.com/user-attachments/assets/2d5b924d-2fd3-49fe-89e3-9ddd49675977)](https://www.youtube.com/watch?v=3TcEmALU5G8)
 
 - The topleft shows your current score. In this picture, the current score is 12345.
 - The topright shows your rover's remaining ammo and max capacity. In this picture, there is 2 ammo remaining with a max capacity of 3 ammo.
 - The meteor is falling down from the top of the screen (the sky).
 - The bullet, which is just a red rectangle, is moving upwards after being shot by the rover (you) and is about to destroy the meteor.
 - You control the rover's movement and shooting.
+
+Click the image to see a short gameplay clip!
 
 ## Game Window Size
 
