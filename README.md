@@ -51,7 +51,7 @@ The controls are also shown in the game, but they are below as well:
 
 ## Game Snapshot + Gameplay Clip
 
-[![Game Snapshot](https://github.com/user-attachments/assets/2d5b924d-2fd3-49fe-89e3-9ddd49675977)](https://www.youtube.com/watch?v=3TcEmALU5G8)
+[![Gameplay Clip](https://github.com/user-attachments/assets/2d5b924d-2fd3-49fe-89e3-9ddd49675977)](https://www.youtube.com/watch?v=3TcEmALU5G8)
 
 - The topleft shows your current score. In this picture, the current score is 12345.
 - The topright shows your rover's remaining ammo and max capacity. In this picture, there is 2 ammo remaining with a max capacity of 3 ammo.
