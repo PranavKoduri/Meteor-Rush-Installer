@@ -7,8 +7,6 @@ Meteors are falling from the sky! Move left and right to dodge them, or shoot to
 
 The goal of the game is to survive until the end while getting as high of a score as possible. Your score increases as time passes, but you can increase it more by shooting down meteors and surviving stages of meteors falling.
 
-There are 6 stages, each of which lasts about 30 seconds, so a full game takes a little over 3 minutes.
-
 ## Download
 
 The game is available on both Mac and Windows. Download options are available on the right side of this page under the "Releases" section. All applications function exactly the same. The "Latest" label next to the "Windows" title is irrelevant.
@@ -48,6 +46,7 @@ The controls are also shown in the game, but they are below as well:
 - Your top 10 high scores are saved. You can choose to clear them if you would like, but the action cannot be undone if you confirm the clear.
 - Don't try to change the high scores in the save file. You won't be able to do it. If you mess it up, all your saved scores will be automatically cleared.
 - High scores are automatically updated and saved as soon as each game is finished (whether you win or lose). If you choose to restart or quit in the middle of a game, that score is not saved.
+- There are 6 stages, each of which lasts about 30 seconds, so a full game takes a little over 3 minutes.
 - See below on information about screen sizes.
 
 ## Game Snapshot
