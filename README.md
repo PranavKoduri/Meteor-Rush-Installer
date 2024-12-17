@@ -29,7 +29,7 @@ Download and unzip "MeteorRush.zip" to install the game, and run the .app file t
 
 ## Controls
 
-The controls are also shown in the game, but they are below as well:
+The controls are shown in the game, but they are below as well:
 - B: go back to the menu or cancel an action (clearing high scores, restarting, quitting) when the confirmation pops up
 - Q: quit/exit the app
 - R: restart the game (current game will not be saved if you restart)
