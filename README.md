@@ -9,7 +9,7 @@ The goal of the game is to survive until the end while getting as high of a scor
 
 ## Download
 
-The game is available on both Mac and Windows. Download options are available on the right side of this page under the "Releases" section. All applications function exactly the same. The "Latest" label next to the "Windows" title is irrelevant.
+The game is available on both Mac and Windows. Download options are available on the right side of this page under the "Releases" section. Both applications function exactly the same. The "Latest" label next to the "Windows" title is irrelevant.
 
 ### Windows
 
