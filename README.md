@@ -1,7 +1,7 @@
 # Meteor Rush
 ###### by Pranav Koduri
 ---
-##### NOTE: All art/images and code in this game is 100% created by me. No outside help or resources were used other than what is provided by Unity.
+##### NOTE: All art/images and code in this game is 100% created by me. No outside help or resources were used other than what is provided by Unity. The actual code for this game is in a separate, private repository.
 ---
 Meteors are falling from the sky! Move left and right to dodge them, or shoot to destroy them. Survive until the end to win, but be careful - if you get hit even once, you lose.
 
